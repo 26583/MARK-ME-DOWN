@@ -4,5 +4,5 @@
 <strong>En dit is in een strong font</strong><br>
 Ik speel ook graag basketbal.
 En speel graag video games.
-<h5>Pelle Meijer</h5>
+<h6>Pelle Meijer</h6>
 
